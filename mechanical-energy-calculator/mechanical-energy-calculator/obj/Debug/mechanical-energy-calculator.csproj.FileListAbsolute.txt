@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\bin\Debug\mechanical-energy-calculator.exe.config
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\bin\Debug\mechanical-energy-calculator.exe
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\bin\Debug\mechanical-energy-calculator.pdb
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical_energy_calculator.Form1.resources
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical_energy_calculator.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.exe
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.pdb
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\bin\Debug\mechanical-energy-calculator.exe.manifest
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\bin\Debug\mechanical-energy-calculator.application
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.exe.manifest
+C:\Users\abdul\Desktop\vs22\mechanical-energy-calculator\mechanical-energy-calculator\obj\Debug\mechanical-energy-calculator.application
